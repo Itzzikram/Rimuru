@@ -1,0 +1,10 @@
+import { Router } from "express";
+
+export const pingRouter = Router();
+
+pingRouter.get("/ping", (_req, res) => {
+  res.json({
+    ok: true,
+    service: "github-repo-example"
+  });
+});
