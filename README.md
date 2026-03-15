@@ -1,4 +1,4 @@
-# 🚀 GitHub Repo Unified Example
+# 🚀 GitHub Repo Rimuru Example
 
 A complete, production-ready TypeScript boilerplate for your next GitHub project. This unified template provides a pristine foundation combining a standard feature-based architecture, an Express.js REST API, and a modular Discord-style command framework.
 
